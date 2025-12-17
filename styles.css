@@ -440,7 +440,8 @@ nav {
 .servicio-icon {
     width: 70px;
     height: 70px;
-    background: linear-gradient(135deg, var(--naranja) 0%, var(--naranja-oscuro) 100%);
+    background: var(--blanco);
+    border: 3px solid var(--naranja);
     border-radius: 16px;
     display: flex;
     align-items: center;
